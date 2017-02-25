@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527068052747",
+    "firebase_url": "https://mymorris-cc8b8.firebaseio.com",
+    "project_id": "mymorris-cc8b8",
+    "storage_bucket": "mymorris-cc8b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527068052747:android:05c232eb5e458910",
+        "android_client_info": {
+          "package_name": "com.example.naga1.myapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527068052747-v93a00hv20v5a6lv9412mha8miapu7ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naga1.myapplication1",
+            "certificate_hash": "F2587F38DD30FFE4171D2DFB65F504872740704C"
+          }
+        },
+        {
+          "client_id": "527068052747-a6c0k2ug6i7573qbikmm0bgi36tl8n3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbP5sI8ed67OnL47qC9dbJ6Vj2IeI8jS0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527068052747-a6c0k2ug6i7573qbikmm0bgi36tl8n3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

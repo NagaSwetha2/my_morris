@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="news"><a href='http://www.lib.siu.edu/news'><b>NEWS</b></a></string>
+    <string name="hours"><a href='http://libguides.lib.siu.edu/hours'><b>HOURS</b></a></string>
+    <string name="floormaps"><a href='http://www.lib.siu.edu/floor-maps'><b>FLOOR MAPS</b></a></string>
+    <string name="campusmap"><a href='http://siu.edu/maps/'><b>CAMPUS MAPS</b></a></string>
+    <string name="about"> <a href='http://www.lib.siu.edu/about'><b>ABOUT MORRIS</b> </a></string>
+    <string name="ishare"> <a href='https://vufind.carli.illinois.edu/all/vf/'><b>ishare</b></a></string>
+
+
+
+</resources>

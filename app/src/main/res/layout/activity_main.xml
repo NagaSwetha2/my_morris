@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#280c14"
+    android:textSize="35sp"
+    tools:context="com.example.naga1.myapplication1.MainActivity"
+    android:weightSum="1">
+
+
+    <Button
+        android:text="@string/news"
+        android:background="#eaad14"
+        android:textColor="#660000"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:linksClickable="true"
+        android:id="@+id/news" />
+
+
+
+    <Button
+        android:text="@string/hours"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="#660000"
+        android:textColor="#eaad14"
+        android:linksClickable="true"
+        android:id="@+id/hours" />
+
+
+
+    <Button
+        android:text="@string/floormaps"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="#8e6843"
+        android:textColor="#F0B336"
+        android:linksClickable="true"
+        android:id="@+id/floormaps" />
+
+
+    <Button
+        android:text="@string/campusmap"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/wine"
+        android:background="@color/blue1"
+        android:linksClickable="true"
+        android:id="@+id/campusmap" />
+
+    <Button
+        android:text="@string/about"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="#F0B336"
+        android:background="@color/green"
+        android:id="@+id/about" />
+
+    <Button
+        android:text="Add value to firebase"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="#eaad14"
+        android:background="@color/dark_blue"
+        android:id="@+id/sendData" />
+
+
+
+</LinearLayout>
